@@ -31,7 +31,7 @@ in production can prevent embarrassing and potentially harmful errors, such as t
 of Microsoft and IBM in the [Gender Shades paper](http://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf)
 and accompanying [MIT Media Lab's website](http://gendershades.org/).
 
-## Why use a markdown file for the datasheet?
+## Why use a markdown file for the model card?
 
 The short explanation: using a markdown file allows us to easily compare (diff) one version
 of the model card with another version. 
