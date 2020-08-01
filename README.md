@@ -9,6 +9,12 @@ The template is [here](./model-card-template.md).
 [Model cards for model reporting](https://arxiv.org/abs/1810.03993) were created to increase
 transparency of models.
 
+> [Model cards are] short documents accompanying trained machine learning models that provide
+> benchmarked evaluation in a variety of conditions, such as across different cultural, demographic,
+> or phenotypic groups ... and intersectional groups ... that are relevant to the intended application
+> domains. Model cards also disclose the context in which models are intended to be used, details of
+> the performance evaluation procedures, and other relevant information.}
+
 The problem it is trying to solve:
 
 > Currently, there are no standardized documentation procedures to communicate the performance
@@ -16,6 +22,14 @@ The problem it is trying to solve:
 > This lack of documentation is especially problematic when models are used in applications that
 > have serious impacts on people’s lives such as in health care, employment, education and law
 > enforcement.
+
+A main concern of model cards is _ethics_. As such, it emphasizes metrics across intersectional groups.
+That is, performance not only in the obvious, larger groups, such as male vs. female, but also in
+combinations of those groups, "male, Fitzpatrick skin type I" vs. "male, Fitzpatrick skin type V", or
+"female, ages 18-34" vs. "female, ages 35-50". Disaggregating the measures of a model before putting it
+in production can prevent embarrassing and potentially harmful errors, such as the very public shaming
+of Microsoft and IBM in the [Gender Shades paper](http://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf)
+and accompanying [MIT Media Lab's website](http://gendershades.org/).
 
 ## Why use a markdown file for the datasheet?
 
