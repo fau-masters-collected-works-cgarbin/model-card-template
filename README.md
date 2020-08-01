@@ -40,7 +40,7 @@ format, making it ideal for that.
 ## Examples of model cards
 
 - [GPT-2](https://github.com/openai/gpt-2/blob/master/model_card.md)
-- Google's interactive model cards for [face detetcion](https://modelcards.withgoogle.com/face-detection)
+- Google's interactive model cards for [face detection](https://modelcards.withgoogle.com/face-detection)
   and [object detection](https://modelcards.withgoogle.com/object-detection)
 
 
