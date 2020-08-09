@@ -1,5 +1,7 @@
 # Model card for "add model name here"
 
+Sections and prompts from the [model cards paper](https://arxiv.org/abs/1810.03993), v2.
+
 Jump to section:
 
 - [Model details](#model-details)
@@ -29,7 +31,7 @@ _Basic information about the model._
 
 ## Intended use
 
-_Use cases that were envisioned during de-velopment._
+_Use cases that were envisioned during development._
 
 ### Primary intended uses
 
@@ -49,9 +51,9 @@ attributes, or others listed in Section 4.3._
 ## Metrics
 
 _The appropriate metrics to feature in a model card depend on the type of model that is being tested.
-For example, classification sys- tems in which the primary output is a class label differ significantly
+For example, classification systems in which the primary output is a class label differ significantly
 from systems whose primary output is a score. In all cases, the reported metrics should be determined
-based on the model’s struc- ture and intended use._
+based on the model’s structure and intended use._
 
 ### Model performance measures
 
