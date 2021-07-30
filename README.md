@@ -6,7 +6,7 @@ The template is [here](./model-card-template.md).
 
 ## What is a model card?
 
-[Model cards for model reporting](https://arxiv.org/abs/1810.03993) were created to increase
+[Model cards for model reporting](https://arxiv.org/abs/1810.03993) was created to increase
 transparency of models.
 
 > [Model cards are] short documents accompanying trained machine learning models that provide
@@ -23,7 +23,7 @@ The problem it is trying to solve:
 > have serious impacts on people’s lives such as in health care, employment, education and law
 > enforcement.
 
-A main concern of model cards is _ethics_. As such, it emphasizes metrics across intersectional groups.
+One of the main concerns of model cards is _ethics_. As such, it emphasizes metrics across intersectional groups.
 That is, performance not only in the obvious, larger groups, such as male vs. female, but also in
 combinations of those groups, "male, Fitzpatrick skin type I" vs. "male, Fitzpatrick skin type V", or
 "female, ages 18-34" vs. "female, ages 35-50". Disaggregating the measures of a model before putting it
@@ -33,7 +33,7 @@ and accompanying [MIT Media Lab's website](http://gendershades.org/).
 
 ## Why use a markdown file for the model card?
 
-The short explanation: using a markdown file allows us to easily compare (diff) one version
+The short explanation: using a markdown file allows us to compare (diff) easily one version
 of the model card with another version. 
 
 The longer explanation:
@@ -48,7 +48,7 @@ Whenever there is a new version of the model, we also need to update its descrip
 In other words, we need to update its model card.
 
 The model card distributed with a version should be in a format that is easy to compare with
-previous version, to allow us to quickly see what has been changed. Markdown is simple, text
+previous versions, to allow us to quickly see what has been changed. Markdown is a simple, text
 format, making it ideal for that.
 
 ## Examples of model cards
@@ -56,5 +56,3 @@ format, making it ideal for that.
 - [GPT-2](https://github.com/openai/gpt-2/blob/master/model_card.md)
 - Google's interactive model cards for [face detection](https://modelcards.withgoogle.com/face-detection)
   and [object detection](https://modelcards.withgoogle.com/object-detection)
-
-
