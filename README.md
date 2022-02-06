@@ -59,3 +59,6 @@ format, making it ideal for that.
 - NVIDIA's [DashCamNet](https://catalog.ngc.nvidia.com/orgs/nvidia/models/tlt_dashcamnet)
 - OpenAI's [GPT-3](https://github.com/openai/gpt-3/blob/master/model-card.md) and [CLIP](https://github.com/openai/CLIP/blob/main/model-card.md)
 
+## Datasheets for datasets
+
+If you are interested in model cards, you may also want to review [datasheets for datasets](https://github.com/fau-masters-collected-works-cgarbin/datasheet-for-dataset-template).
