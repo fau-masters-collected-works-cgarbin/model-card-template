@@ -53,6 +53,10 @@ format, making it ideal for that.
 
 ## Examples of model cards
 
-- [GPT-2](https://github.com/openai/gpt-2/blob/master/model_card.md)
+- [CheXNet](https://github.com/fau-masters-collected-works-cgarbin/chexnet-model-card)
 - Google's interactive model cards for [face detection](https://modelcards.withgoogle.com/face-detection)
   and [object detection](https://modelcards.withgoogle.com/object-detection)
+ - Google's [Face Detection](https://modelcards.withgoogle.com/face-detection)
+- NVIDIA's [DashCamNet](https://catalog.ngc.nvidia.com/orgs/nvidia/models/tlt_dashcamnet)
+- OpenAI's [GPT-3](https://github.com/openai/gpt-3/blob/master/model-card.md) and [CLIP](https://github.com/openai/CLIP/blob/main/model-card.md)
+
