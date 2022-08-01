@@ -56,7 +56,7 @@ format, making it ideal for that.
 - [CheXNet](https://github.com/fau-masters-collected-works-cgarbin/chexnet-model-card)
 - Google's interactive model cards for [face detection](https://modelcards.withgoogle.com/face-detection)
   and [object detection](https://modelcards.withgoogle.com/object-detection)
-- NVIDIA's [DashCamNet](https://catalog.ngc.nvidia.com/orgs/nvidia/models/tlt_dashcamnet)
+- NVIDIA's [DashCamNet](https://catalog.ngc.nvidia.com/orgs/nvidia/teams/tao/models/dashcamnet)
 - OpenAI's [GPT-3](https://github.com/openai/gpt-3/blob/master/model-card.md) and [CLIP](https://github.com/openai/CLIP/blob/main/model-card.md)
 
 ## Datasheets for datasets
