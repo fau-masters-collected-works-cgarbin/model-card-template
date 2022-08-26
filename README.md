@@ -58,7 +58,7 @@ format, making it ideal for that.
   and [object detection](https://modelcards.withgoogle.com/object-detection)
 - NVIDIA's [DashCamNet](https://catalog.ngc.nvidia.com/orgs/nvidia/teams/tao/models/dashcamnet)
 - OpenAI's [GPT-3](https://github.com/openai/gpt-3/blob/master/model-card.md) and [CLIP](https://github.com/openai/CLIP/blob/main/model-card.md)
-- Hugging Face has a place for model cards. See this example from the [bert-uncase-model](https://huggingface.co/bert-base-uncased).
+- Hugging Face has a place for model cards. See [this example from the bert-uncase-model](https://huggingface.co/bert-base-uncased).
 
 ## Datasheets for datasets
 
