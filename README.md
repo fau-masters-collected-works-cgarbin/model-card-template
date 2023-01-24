@@ -60,7 +60,7 @@ format, making it ideal for that.
 - OpenAI's [GPT-3](https://github.com/openai/gpt-3/blob/master/model-card.md) and [CLIP](https://github.com/openai/CLIP/blob/main/model-card.md)
 - Hugging Face has a place for model cards. See [this example from the bert-uncase-model](https://huggingface.co/bert-base-uncased).
 - Amazon introduced _[AI Service Cards](https://aws.amazon.com/blogs/machine-learning/introducing-aws-ai-service-cards-a-new-resource-to-enhance-transparency-and-advance-responsible-ai/)_ late in 2022. An example: [Rekognition Face Matching](https://aws.amazon.com/machine-learning/responsible-machine-learning/rekognition-face-matching/) service card.
-- [PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models](https://arxiv.org/abs/2003.03808) added a model card to its paper afer some controversy about [biases in the model](https://thegradient.pub/pulse-lessons/).
+- [PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models](https://arxiv.org/abs/2003.03808) added a model card to its paper after discussions about [biases in the model](https://thegradient.pub/pulse-lessons/).
 
 ## Datasheets for datasets
 
